@@ -22,11 +22,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Md-Mahfuj.Md-Mahfuj&"  />
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me <br><br>Hello!<br>i'm Software Engineer.<br>I am a professional and passionate programmer in my daily life. I love to learn the cutting edge technologies and try to bring a successful implementation using those !.</h3>
 
