@@ -49,6 +49,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
+<img align="right" height="150" src="https://cdn.dribbble.com/userupload/16393801/file/original-0fad0f05274143d4a74101273105c3ac.png?resize=1024x768"  />
+
 
 
 
@@ -64,7 +66,6 @@
 
 
 
-<img align="right" height="150" src="https://cdn.dribbble.com/userupload/16393801/file/original-0fad0f05274143d4a74101273105c3ac.png?resize=1024x768"  />
 
 ###
 
