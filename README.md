@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Md-Mahfuj
