@@ -14,6 +14,9 @@
   <a href="https://www.facebook.com/md.mahfuj.1272010" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
+  <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Md-Mahfuj.Md-Mahfuj&"  />
+</div>
 </div>
 
 ###
@@ -21,13 +24,6 @@
 
 <h1 align="center">Hi 👋, I'm MD MAFUJ </h1>
 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Md-Mahfuj.Md-Mahfuj&"  />
-</div>
-
-
-<h3 align="left">👩‍💻  About Me <br><br>Hello!<br>i'm Software Engineer.<br>I am a professional and passionate programmer in my daily life. I love to learn the cutting edge technologies and try to bring a successful implementation using those !.</h3>
 
 ###
 
